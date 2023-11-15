@@ -11,8 +11,8 @@ body {
 }
 
 #hero{
-    width: 400px;
-    height: 300px;
+    width: 100%;
+    height: 80vh;
     margin: 0 auto;
 }
 
@@ -44,9 +44,9 @@ button {
 }
 
 #increment-btn {
-    background: url(https://media.giphy.com/media/TEcg78MgRq33dWUb2J/giphy.gif);
+    background: url(https://media.giphy.com/media/KxscqRylVTBty6bUIS/giphy.gif);
     background-size: cover;
-    background-position: center;
+    background-position: 50% 26%;
     background-repeat: no-repeat;
     
 }
@@ -54,7 +54,7 @@ button {
 #save-btn {
     background: url(https://media.giphy.com/media/KxscqRylVTBty6bUIS/giphy.gif);
     background-size: cover;
-    background-position: 50% 30%;
+    background-position: 50% 50%;
     background-repeat: no-repeat;
 }
 
