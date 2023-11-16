@@ -40,7 +40,7 @@ button {
     width: 200px;
     margin: 0 0 5px;
     border-radius: 5px;
-    text-shadow: 0 0 2px black;
+    text-shadow: 0 0 2px ghostWhite;
     color: #000814;
 }
 
